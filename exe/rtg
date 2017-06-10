@@ -1,6 +1,6 @@
 #!/usr/bin/env ruby
 
 require "optparse"
-require "timeshock"
+require "rtg"
 
-RTG::Server.start
+RTG::Server.new.start

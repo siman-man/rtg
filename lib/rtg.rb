@@ -1,8 +1,8 @@
-require "rtg/version"
+require "colorize"
+require "keyevent"
+require "timeout"
+require "yaml"
 
-module RTG
-  class Server
-    def self.start
-    end
-  end
-end
+require "rtg/version"
+require "rtg/screen"
+require "rtg/server"
