@@ -14,7 +14,7 @@ $ gem install rtg
 Run `rtg` command.
 
 ```
-rtg
+$ rtg
 ```
 
 ![](images/typing.gif)
